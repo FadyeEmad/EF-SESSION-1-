@@ -8,7 +8,7 @@ namespace EF_SESSION_1_DEMO.entity
     {
         static void Main (string[] args)
         {
-
+             
         }
     }
 }
